@@ -12,7 +12,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 ### 📂 Array & Two Pointers
 - [ ] Two Sum
 - [ ] 3Sum
-- [x] [Container With Most Water](./Java/Medium/11. Container With Most Water/)
+- [x] [Container With Most Water](./Python/Medium/11. Container With Most Water/)
 - [ ] Move Zeroes
 - [ ] Sort Colors
 - [ ] Product of Array Except Self
