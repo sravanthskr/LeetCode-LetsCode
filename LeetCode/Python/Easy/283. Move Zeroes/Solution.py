@@ -11,3 +11,4 @@ class Solution:
         
         for i in range(left, len(nums)):
             nums[i]=0
+            
