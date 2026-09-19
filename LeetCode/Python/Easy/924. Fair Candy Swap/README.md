@@ -8,8 +8,8 @@
 Array, Hash Table, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** 1605 ms
-- **Memory:** 21.4 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
