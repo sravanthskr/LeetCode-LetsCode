@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Hash Table, Sorting
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 32.4 MB
+- **Runtime:** 13 ms
+- **Memory:** 58.1 MB
 
 ---
 
