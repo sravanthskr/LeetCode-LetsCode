@@ -1,6 +1,6 @@
 # 📝 1089. Duplicate Zeros (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/duplicate-zeros/)
+🔗 [Problem Link](https://leetcode.com/problems/duplicate-zeros)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
