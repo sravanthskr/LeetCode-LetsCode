@@ -83,7 +83,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Element
 - [ ] Remove Duplicates II
-- [x] [Duplicate Zeros](./Python/Easy/1089. Duplicate Zeros/)
+- [x] [Duplicate Zeros](./Python/Easy/1168. Duplicate Zeros/)
 - [ ] Merge Two Sorted Arrays
 - [ ] Plus One
 
