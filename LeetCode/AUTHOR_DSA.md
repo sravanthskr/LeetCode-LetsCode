@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 238 (0.4%)
+- **Completed:** 2 / 238 (0.8%)
 
 ---
 
@@ -83,7 +83,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Element
 - [ ] Remove Duplicates II
-- [ ] Duplicate Zeros
+- [x] [Duplicate Zeros](./Python/Easy/1089. Duplicate Zeros/)
 - [ ] Merge Two Sorted Arrays
 - [ ] Plus One
 
