@@ -20,7 +20,7 @@ class Solution:
             read-=1
             write-=1
         
-        while read>0:
+        while read>=0:
             if arr[read]!=0:
                 arr[write]=arr[read]
                 write-=1
